@@ -1,0 +1,7 @@
+baseurl = "http://bookshelf.com/"
+languageCode = "en-us"
+title = "Jason Book Reviews"
+
+[Params]
+	Author = "Jason N"
+	disqusShortname = "discuss"
